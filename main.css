@@ -1,0 +1,24 @@
+h2
+{
+    text-align: center;
+    font-size: 5em;
+    font-style: bold;
+    color: black;
+    padding-top: 4ex;
+}
+p
+{
+    text-align: center;
+    font-size: 2em;
+    font-style:italic;
+}
+body
+{
+    border:black;
+    border-style: solid;
+    padding-bottom: 14em;
+}
+h3
+{
+    text-align: right;
+}
